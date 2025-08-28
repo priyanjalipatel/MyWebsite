@@ -56,4 +56,3 @@ I am a Ph.D. Astrophysicist turned Data Scientist with a strong background in ap
 * [GitHub](https://github.com/priyanjalipatel)
 * [Kaggle](https://www.kaggle.com/priyanjalipatel)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ola1DfwAAAAJ)
-✨ Would you like me to keep this README **professional-focused (for recruiters/LinkedIn/GitHub)**, or would you prefer a **more personal touch (like a portfolio landing page with your story + hobbies)**?
